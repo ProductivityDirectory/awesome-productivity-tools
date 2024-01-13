@@ -82,7 +82,3 @@ A curated list of awesome productivity tools and products to help you stay organ
 
 **Contribute to This List**
 Your contributions are welcome! If you have a favorite productivity tool that's not listed here, feel free to add it or suggest it. Just fork this repository, add your tool to the list, and submit a pull request. We're always looking for new tools to make our lives more productive!
-
---- 
-
-This format encourages community participation and ensures that your list stays current and comprehensive.
