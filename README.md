@@ -33,6 +33,7 @@ A curated list of awesome productivity tools and products to help you stay organ
 1. **[Evernote](https://evernote.com)** - Note-taking, organizing, and archiving.
 2. **[Notion](https://www.notion.so)** - All-in-one workspace for notes, tasks, wikis, and databases.
 3. **[OneNote](https://www.onenote.com)** - Microsoft's digital note-taking app.
+4. **[Joplin](https://joplinapp.org)** - Note-taking, to-do app.
 
 ### Collaboration
 
@@ -49,9 +50,7 @@ A curated list of awesome productivity tools and products to help you stay organ
 ### Calendar and Scheduling
 
 1. **[Google Calendar](https://calendar.google.com)** - Time management and scheduling tool.
-2. **[Calendly](https://calendly.com
-
-)** - Automated scheduling software.
+2. **[Calendly](https://calendly.com)** - Automated scheduling software.
 3. **[Fantastical](https://flexibits.com/fantastical)** - Calendar app with natural language event creation.
 
 ### Mind Mapping
