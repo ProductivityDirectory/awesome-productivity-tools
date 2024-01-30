@@ -17,10 +17,10 @@ A curated list of awesome productivity tools and products to help you stay organ
 
 ### Task Management
 
-1. **[Trello](https://trello.com)** - A visual tool for organizing your work and life.
-2. **[Todoist](https://todoist.com)** - A simple yet powerful to-do list app.
-3. **[Asana](https://asana.com)** - Project management tool for teams.
-4. **[Microsoft To Do](https://todo.microsoft.com)** - Task management tool by Microsoft.
+1. **[Trello](https://trello.com)** - [review](https://productivity.directory/trello) - A visual tool for organizing your work and life.
+2. **[Todoist](https://todoist.com)** - [review](https://productivity.directory/todoist) - A simple yet powerful to-do list app.
+3. **[Asana](https://asana.com)** - [review](https://productivity.directory/asana) - Project management tool for teams.
+4. **[Microsoft To Do](https://todo.microsoft.com)** - [review](https://productivity.directory/microsoft-todo) - Task management tool by Microsoft.
 
 ### Time Tracking
 
