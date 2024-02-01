@@ -24,34 +24,34 @@ A curated list of awesome productivity tools and products to help you stay organ
 
 ### Time Tracking
 
-1. **[Toggl](https://toggl.com)** - Easy time tracking for any project.
-2. **[RescueTime](https://www.rescuetime.com)** - Automatic time-tracking software.
-3. **[Clockify](https://clockify.me)** - Free time tracker and timesheet app for teams.
+1. **[Toggl](https://toggl.com)** - [review](https://productivity.directory/toggl) - Easy time tracking for any project.
+2. **[RescueTime](https://www.rescuetime.com)** - [review](https://productivity.directory/rescuetime) - Automatic time-tracking software.
+3. **[Clockify](https://clockify.me)** -[review](https://productivity.directory/clockify) - Free time tracker and timesheet app for teams.
 
 ### Note Taking
 
-1. **[Evernote](https://evernote.com)** - Note-taking, organizing, and archiving.
-2. **[Notion](https://www.notion.so)** - All-in-one workspace for notes, tasks, wikis, and databases.
+1. **[Evernote](https://evernote.com)** - [review](https://productivity.directory/evernote) - Note-taking, organizing, and archiving.
+2. **[Notion](https://www.notion.so)** - [review](https://productivity.directory/notion) - All-in-one workspace for notes, tasks, wikis, and databases.
 3. **[OneNote](https://www.onenote.com)** - Microsoft's digital note-taking app.
-4. **[Joplin](https://joplinapp.org)** - Note-taking, to-do app.
+4. **[Joplin](https://joplinapp.org)** - [review](https://productivity.directory/joplin) - Note-taking, to-do app.
 
 ### Collaboration
 
-1. **[Slack](https://slack.com)** - Messaging app for teams.
-2. **[Microsoft Teams](https://www.microsoft.com/en/microsoft-teams/group-chat-software)** - Unified communication and collaboration platform.
-3. **[Zoom](https://zoom.us)** - Video conferencing and web conferencing service.
+1. **[Slack](https://slack.com)** - [review](https://productivity.directory/slack) - Messaging app for teams.
+2. **[Microsoft Teams](https://www.microsoft.com/en/microsoft-teams/group-chat-software)** - [review](https://productivity.directory/microsoft-teams) - Unified communication and collaboration platform.
+3. **[Zoom](https://zoom.us)** - [review](https://productivity.directory/zoom) - Video conferencing and web conferencing service.
 
 ### Project Management
 
-1. **[Jira](https://www.atlassian.com/software/jira)** - Issue and project tracking for software teams.
-2. **[Monday.com](https://monday.com)** - Work operating system for teams.
-3. **[Basecamp](https://basecamp.com)** - Real-time communication tool for teams.
+1. **[Jira](https://www.atlassian.com/software/jira)** - [review](https://productivity.directory/jira) - Issue and project tracking for software teams.
+2. **[Monday.com](https://monday.com)** - [review](https://productivity.directory/mondaydotcom) - Work operating system for teams.
+3. **[Basecamp](https://basecamp.com)** - [review](https://productivity.directory/basecamp) - Real-time communication tool for teams.
 
 ### Calendar and Scheduling
 
-1. **[Google Calendar](https://calendar.google.com)** - Time management and scheduling tool.
-2. **[Calendly](https://calendly.com)** - Automated scheduling software.
-3. **[Fantastical](https://flexibits.com/fantastical)** - Calendar app with natural language event creation.
+1. **[Google Calendar](https://calendar.google.com)** - [review](https://productivity.directory/google-Calendar) - Time management and scheduling tool.
+2. **[Calendly](https://calendly.com)** - [review](https://productivity.directory/calendly) - Automated scheduling software.
+3. **[Fantastical](https://flexibits.com/fantastical)** - [review](https://productivity.directory/fantastical) - Calendar app with natural language event creation.
 
 ### Mind Mapping
 
