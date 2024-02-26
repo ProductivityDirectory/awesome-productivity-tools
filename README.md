@@ -28,6 +28,17 @@ A curated list of awesome productivity tools and products to help you stay organ
 2. **[RescueTime](https://www.rescuetime.com)** - [review](https://productivity.directory/rescuetime) - Automatic time-tracking software.
 3. **[Clockify](https://clockify.me)** -[review](https://productivity.directory/clockify) - Free time tracker and timesheet app for teams.
 
+### Pomodor Timer Apps 
+
+1. **[Pomodor](https://pomodor.app)** - [review](https://productivity.directory/pomodor) - Simple and effective web-based Pomodoro timer.
+2. **[MarinaraTimer](https://marinaratimer.com)** - [review](https://productivity.directory/marinaratimer) - Shareable and customizable Pomodoro timer for teams and individuals.
+3. **[Forest](https://www.forestapp.cc)** - [review](https://productivity.directory/forest) - Mobile app that combines focus with virtual tree planting.
+4. **[Be Focused](https://xwavesoft.com/be-focused-pro-mac-os-x.html)** - [review](https://productivity.directory/be-focused) - Focus timer for Apple users, integrating across devices.
+5. **[Session](https://www.stayinsession.com)** - [review](https://productivity.directory/session) - Feature-rich Pomodoro app for macOS and iOS users.
+6. **[Toggl Track](https://toggl.com/track)** - [review](https://productivity.directory/toggl-track) - Time-tracking app with Pomodoro features for professionals.
+7. **[Focus Booster](https://www.focusboosterapp.com)** - [review](https://productivity.directory/focus-booster) - Pomodoro app with detailed productivity reporting.
+8. **[TomatoTimer](https://tomato-timer.com)** - [review](https://productivity.directory/tomato-timer) - Free and simple Pomodoro timer for web users.
+
 ### Note Taking
 
 1. **[Evernote](https://evernote.com)** - [review](https://productivity.directory/evernote) - Note-taking, organizing, and archiving.
