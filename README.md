@@ -6,6 +6,7 @@ A curated list of awesome productivity tools and products to help you stay organ
 
 - [Task Management](#task-management)
 - [Time Tracking](#time-tracking)
+  - [Pomodoro Timer Apps](#pomodoro-timer-apps)
 - [Note Taking](#note-taking)
 - [Collaboration](#collaboration)
 - [Project Management](#project-management)
@@ -28,7 +29,7 @@ A curated list of awesome productivity tools and products to help you stay organ
 2. **[RescueTime](https://www.rescuetime.com)** - [review](https://productivity.directory/rescuetime) - Automatic time-tracking software.
 3. **[Clockify](https://clockify.me)** -[review](https://productivity.directory/clockify) - Free time tracker and timesheet app for teams.
 
-### Pomodor Timer Apps 
+### Pomodoro Timer Apps 
 
 1. **[Pomodor](https://pomodor.app)** - [review](https://productivity.directory/pomodor) - Simple and effective web-based Pomodoro timer.
 2. **[MarinaraTimer](https://marinaratimer.com)** - [review](https://productivity.directory/marinaratimer) - Shareable and customizable Pomodoro timer for teams and individuals.
