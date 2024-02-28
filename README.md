@@ -2,6 +2,10 @@
 
 A curated list of awesome productivity tools and products to help you stay organized, focused, and efficient. Feel free to suggest additions to this list!
 
+### related links
+
+[Productivity Apps](https://productivity.directory) - [Productivity Hacks](https://productivity.directory/notes/hacks) - [Productivity Blog](https://blog.productivity.directory)
+
 ## Contents
 
 - [Task Management](#task-management)
