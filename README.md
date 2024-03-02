@@ -96,6 +96,7 @@ A curated list of awesome productivity tools and products to help you stay organ
 
 ### AI Tools
 
+*A much more compelete list of **[AI Tools for Productivity](https://productivity.directory/category/ai)***
 
 - **[Motion App](https://usemotion.com)** - [reviews](https://productivity.directory/motion) - [blog post](https://blog.productivity.directory/motion-app-review-a-deep-dive-into-the-ai-powered-productivity-app-78081e8107f7) - Automation for connecting apps and services.
 
