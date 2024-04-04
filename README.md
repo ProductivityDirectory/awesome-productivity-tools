@@ -4,7 +4,7 @@ A curated list of awesome productivity tools and products to help you stay organ
 
 ### related links
 
-[Productivity Apps](https://productivity.directory) - [Productivity Hacks](https://productivity.directory/notes/hacks) - [Productivity Blog](https://blog.productivity.directory)
+[Productivity Apps](https://productivity.directory) - [Productivity Hacks](https://productivity.directory/notes/hacks) - [Productivity Blog](https://blog.productivity.directory) - [Productivity Newsletter](https://newsletter.productivity.directory)
 
 ## Contents
 
