@@ -27,7 +27,7 @@ A curated list of awesome productivity tools and products to help you stay organ
 1. **[Trello](https://trello.com)** - [review](https://productivity.directory/trello) - A visual tool for organizing your work and life.
 2. **[Todoist](https://todoist.com)** - [review](https://productivity.directory/todoist) - A simple yet powerful to-do list app.
 3. **[Asana](https://asana.com)** - [review](https://productivity.directory/asana) - Project management tool for teams.
-4. **[Microsoft To Do](https://todo.microsoft.com)** - [review](https://productivity.directory/microsoft-todo) - Task management tool by Microsoft.
+4. **[Microsoft To Do](https://todo.microsoft.com)** - Task management tool by Microsoft.
 
 ## Project Management
 
@@ -104,7 +104,7 @@ A curated list of awesome productivity tools and products to help you stay organ
 1. **[IFTTT](https://ifttt.com)** - Automation for connecting apps and services.
 2. **[Zapier](https://zapier.com)** - Automation for busy people.
 3. **[Trello Power-Ups](https://trello.com/power-ups)** - Enhancements for Trello.
-4. **[Need Go Home](https://needgohome.netlify.app)** - Free multilingual tool that drafts a professional message when you need to leave work early.
+4. **[Need Go Home](https://needgohome.com)** - Free multilingual tool that drafts a professional message when you need to leave work early.
 
 ## AI Tools
 
