@@ -11,6 +11,7 @@ A curated list of awesome productivity tools and products to help you stay organ
 - [Task Management](#task-management)
 - [Project Management](#project-management)
 - [Time Tracking](#time-tracking)
+- [Invoicing](#invoicing)
   - [Pomodoro Timer Apps](#pomodoro-timer-apps)
 - [Note Taking](#note-taking)
 - [Collaboration](#collaboration)
@@ -44,6 +45,10 @@ A curated list of awesome productivity tools and products to help you stay organ
 1. **[Toggl](https://toggl.com)** - [review](https://productivity.directory/toggl) - [tutorial](https://blog.productivity.directory/how-to-use-toggl-track-a-beginners-guide-2bd299986bcb) - Easy time tracking for any project.
 2. **[RescueTime](https://www.rescuetime.com)** - [review](https://productivity.directory/rescuetime) - Automatic time-tracking software.
 3. **[Clockify](https://clockify.me)** -[review](https://productivity.directory/clockify) - Free time tracker and timesheet app for teams.
+
+## Invoicing
+
+1. **[Toolkit Labs Invoice](https://ytinumoc.github.io/toolkitlabs-invoice/)** - Free browser invoice and receipt generator (print or save as PDF, no account). [Commercial license (EUR 249)](https://buy.stripe.com/bJeeVea187TScZwb095Ne0k?client_reference_id=awesome-productivity-tools-v1) for white-label PDFs, six templates, and CSV batch CLI.
 
 ## Pomodoro Timer Apps 
 
