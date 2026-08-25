@@ -92,6 +92,7 @@ A curated list of awesome productivity tools and products to help you stay organ
 1. **[Forest](https://www.forestapp.cc)** - App that helps stay focused by planting virtual trees.
 2. **[Freedom](https://freedom.to)** - Block distracting websites and apps.
 3. **[Focus@Will](https://www.focusatwill.com)** - Music service based on human neuroscience to improve focus.
+4. **[Atomic Productivity](https://atomicproductivity.com)** - Free ADHD-friendly focus suite: pomodoro and visual timers, focus sound mixer with real field recordings, timebox planner. No signup required.
 
 ## File Organization
 
