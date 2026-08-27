@@ -55,6 +55,7 @@ A curated list of awesome productivity tools and products to help you stay organ
 6. **[Toggl Track](https://toggl.com/track)** - [review](https://productivity.directory/toggl-track) - Time-tracking app with Pomodoro features for professionals.
 7. **[Focus Booster](https://www.focusboosterapp.com)** - [review](https://productivity.directory/focus-booster) - Pomodoro app with detailed productivity reporting.
 8. **[TomatoTimer](https://tomato-timer.com)** - [review](https://productivity.directory/tomato-timer) - Free and simple Pomodoro timer for web users.
+9. **[NEDIO](https://nedio.xyz/)** - [review](https://productivity.directory/nedio) - Pomodoro timer with instrumental focus music and AI sprint reviews for developers.
 
 ## Note Taking
 
