@@ -98,12 +98,14 @@ A curated list of awesome productivity tools and products to help you stay organ
 1. **[Dropbox](https://www.dropbox.com)** - Cloud file storage and sharing.
 2. **[Google Drive](https://drive.google.com)** - File storage and synchronization service.
 3. **[Box](https://www.box.com)** - Cloud content management and file sharing service for businesses.
+4. **[File Size Converter](https://nutilz.com/file-size-converter)** - Free online tool to convert between bytes, KB, MB, GB, and TB instantly, no signup required.
 
 ## Miscellaneous
 
 1. **[IFTTT](https://ifttt.com)** - Automation for connecting apps and services.
 2. **[Zapier](https://zapier.com)** - Automation for busy people.
 3. **[Trello Power-Ups](https://trello.com/power-ups)** - Enhancements for Trello.
+4. **[Nutilz](https://nutilz.com)** - Free online developer and productivity utilities (regex tester, JSON formatter, unit converters, and calculators) with zero sign-up required.
 
 ## AI Tools
 
