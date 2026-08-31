@@ -12,6 +12,7 @@ A curated list of awesome productivity tools and products to help you stay organ
 - [Project Management](#project-management)
 - [Time Tracking](#time-tracking)
   - [Pomodoro Timer Apps](#pomodoro-timer-apps)
+- [Employee Monitoring](#employee-monitoring)
 - [Note Taking](#note-taking)
 - [Collaboration](#collaboration)
 - [Project Management](#project-management)
@@ -44,6 +45,10 @@ A curated list of awesome productivity tools and products to help you stay organ
 1. **[Toggl](https://toggl.com)** - [review](https://productivity.directory/toggl) - [tutorial](https://blog.productivity.directory/how-to-use-toggl-track-a-beginners-guide-2bd299986bcb) - Easy time tracking for any project.
 2. **[RescueTime](https://www.rescuetime.com)** - [review](https://productivity.directory/rescuetime) - Automatic time-tracking software.
 3. **[Clockify](https://clockify.me)** -[review](https://productivity.directory/clockify) - Free time tracker and timesheet app for teams.
+
+## Employee Monitoring
+
+1. **[OctoWatch DLP](https://octowatchdlp.com/)** - Windows employee monitoring and DLP: app/web usage, screenshots, live view, timesheets, productivity analytics, and rule-based data loss prevention; Cloud and On-Premise; [REST API](https://octowatchdlp.com/api/) with Node client [`octowatch-api`](https://www.npmjs.com/package/octowatch-api) ([source](https://github.com/extralabs/octowatch-api)).
 
 ## Pomodoro Timer Apps 
 
