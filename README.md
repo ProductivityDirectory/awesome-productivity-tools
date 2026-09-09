@@ -74,6 +74,7 @@ A curated list of awesome productivity tools and products to help you stay organ
 1. **[Jira](https://www.atlassian.com/software/jira)** - [review](https://productivity.directory/jira) - Issue and project tracking for software teams.
 2. **[Monday.com](https://monday.com)** - [review](https://productivity.directory/mondaydotcom) - Work operating system for teams.
 3. **[Basecamp](https://basecamp.com)** - [review](https://productivity.directory/basecamp) - Real-time communication tool for teams.
+4. **[Stellary](https://stellary.co)** - Project board + hosted MCP for coding assistants.
 
 ## Calendar and Scheduling
 
