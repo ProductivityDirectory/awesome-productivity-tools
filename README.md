@@ -80,6 +80,7 @@ A curated list of awesome productivity tools and products to help you stay organ
 1. **[Google Calendar](https://calendar.google.com)** - [review](https://productivity.directory/google-Calendar) - Time management and scheduling tool.
 2. **[Calendly](https://calendly.com)** - [review](https://productivity.directory/calendly) - Automated scheduling software.
 3. **[Fantastical](https://flexibits.com/fantastical)** - [review](https://productivity.directory/fantastical) - Calendar app with natural language event creation.
+4. **[Calendar Repeat](https://calendar-repeat.bigdawgishere.chatgpt.site)** - $9 offline browser utility that converts CSV schedules into ICS files with finite recurrence and excluded dates; free sample files available.
 
 ## Mind Mapping
 
