@@ -105,6 +105,9 @@ A curated list of awesome productivity tools and products to help you stay organ
 2. **[Zapier](https://zapier.com)** - Automation for busy people.
 3. **[Trello Power-Ups](https://trello.com/power-ups)** - Enhancements for Trello.
 
+- [NextReset](https://nextreset.ai/) - Independent Codex reset-history resource with official incident updates and a personal browser-local timer.
+
+
 ## AI Tools
 
 *A much more compelete list of **[AI Tools for Productivity](https://productivity.directory/category/ai)***
