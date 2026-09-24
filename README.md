@@ -44,6 +44,7 @@ A curated list of awesome productivity tools and products to help you stay organ
 1. **[Toggl](https://toggl.com)** - [review](https://productivity.directory/toggl) - [tutorial](https://blog.productivity.directory/how-to-use-toggl-track-a-beginners-guide-2bd299986bcb) - Easy time tracking for any project.
 2. **[RescueTime](https://www.rescuetime.com)** - [review](https://productivity.directory/rescuetime) - Automatic time-tracking software.
 3. **[Clockify](https://clockify.me)** -[review](https://productivity.directory/clockify) - Free time tracker and timesheet app for teams.
+4. **[Vellum](https://vellum-pai0psnhd-next-gen-ai1.vercel.app)** - [review](https://productivity.directory/vellum) - Time tracking plus clients, proposals and invoicing for independent studios, with -time pricing.
 
 ## Pomodoro Timer Apps 
 
