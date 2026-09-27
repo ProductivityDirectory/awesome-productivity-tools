@@ -98,6 +98,7 @@ A curated list of awesome productivity tools and products to help you stay organ
 1. **[Dropbox](https://www.dropbox.com)** - Cloud file storage and sharing.
 2. **[Google Drive](https://drive.google.com)** - File storage and synchronization service.
 3. **[Box](https://www.box.com)** - Cloud content management and file sharing service for businesses.
+4. **[FileOnTap](https://fileontap.com/)** - Free browser-based image and PDF conversion with local processing and no account.
 
 ## Miscellaneous
 
