@@ -80,6 +80,7 @@ A curated list of awesome productivity tools and products to help you stay organ
 1. **[Google Calendar](https://calendar.google.com)** - [review](https://productivity.directory/google-Calendar) - Time management and scheduling tool.
 2. **[Calendly](https://calendly.com)** - [review](https://productivity.directory/calendly) - Automated scheduling software.
 3. **[Fantastical](https://flexibits.com/fantastical)** - [review](https://productivity.directory/fantastical) - Calendar app with natural language event creation.
+4. **[KupFollowersow.pl Content Planner](https://kupfollowersow.pl/resources/pl/content-planner.xlsx)** - Free Polish-language XLSX template for manually planning 30 content slots, with dates, topics, formats and evaluation; no registration required.
 
 ## Mind Mapping
 
