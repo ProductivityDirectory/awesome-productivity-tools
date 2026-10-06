@@ -92,6 +92,7 @@ A curated list of awesome productivity tools and products to help you stay organ
 1. **[Forest](https://www.forestapp.cc)** - App that helps stay focused by planting virtual trees.
 2. **[Freedom](https://freedom.to)** - Block distracting websites and apps.
 3. **[Focus@Will](https://www.focusatwill.com)** - Music service based on human neuroscience to improve focus.
+4. **[Awayra](https://awayra.github.io/AWAYRA-WPF/)** - Windows break reminder with separate eye and movement timers, optional sound, work hours, and snooze.
 
 ## File Organization
 
