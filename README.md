@@ -107,6 +107,8 @@ A curated list of awesome productivity tools and products to help you stay organ
 
 ## AI Tools
 
+- **[Tidify Excel & CSV Cleaner](https://tidify-app.netlify.app)** - Free 1-click browser-based Excel & CSV data cleaner combining algorithmic deduplication/standardization and AI typo fixing with zero server uploads.
+
 *A much more compelete list of **[AI Tools for Productivity](https://productivity.directory/category/ai)***
 
 - **[Motion App](https://usemotion.com)** - [reviews](https://productivity.directory/motion) - [blog post](https://blog.productivity.directory/motion-app-review-a-deep-dive-into-the-ai-powered-productivity-app-78081e8107f7) - Automation for connecting apps and services.
