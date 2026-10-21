@@ -62,6 +62,7 @@ A curated list of awesome productivity tools and products to help you stay organ
 2. **[Notion](https://www.notion.so)** - [review](https://productivity.directory/notion) - All-in-one workspace for notes, tasks, wikis, and databases.
 3. **[OneNote](https://www.onenote.com)** - Microsoft's digital note-taking app.
 4. **[Joplin](https://joplinapp.org)** - [review](https://productivity.directory/joplin) - Note-taking, to-do app.
+5. **[Simple Sticky Notes](https://chromewebstore.google.com/detail/lkkkngnoflaeicokibjcmgjacmhlnghg)** - Pin persistent notes to web pages and use a flexible AI assistant to understand what you read, develop ideas, and work with your notes.
 
 ## Collaboration
 
