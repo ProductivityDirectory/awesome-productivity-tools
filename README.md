@@ -86,6 +86,7 @@ A curated list of awesome productivity tools and products to help you stay organ
 1. **[MindMeister](https://www.mindmeister.com)** - Online mind mapping tool.
 2. **[XMind](https://www.xmind.net)** - Mind mapping and brainstorming software.
 3. **[Coggle](https://coggle.it)** - Simple collaborative mind maps.
+4. **[Mind Elixir](https://app.mind-elixir.com)** - Mind mapping web app for organizing ideas into interactive maps, with outline mode, tags and MCP support.
 
 ## Focus Tools
 
