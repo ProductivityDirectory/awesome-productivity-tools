@@ -19,6 +19,7 @@ A curated list of awesome productivity tools and products to help you stay organ
 - [Mind Mapping](#mind-mapping)
 - [Focus Tools](#focus-tools)
 - [File Organization](#file-organization)
+- [Career and Job Search](#career-and-job-search)
 - [AI Tools](#ai-tools)
 - [Miscellaneous](#miscellaneous)
 
@@ -98,6 +99,10 @@ A curated list of awesome productivity tools and products to help you stay organ
 1. **[Dropbox](https://www.dropbox.com)** - Cloud file storage and sharing.
 2. **[Google Drive](https://drive.google.com)** - File storage and synchronization service.
 3. **[Box](https://www.box.com)** - Cloud content management and file sharing service for businesses.
+
+## Career and Job Search
+
+1. **[JobEmerge](https://www.jobemerge.work)** - AI career copilot: job-fit test, 19-language resume translator, Markdown editor. One-time pricing, no auto-renewal.
 
 ## Miscellaneous
 
