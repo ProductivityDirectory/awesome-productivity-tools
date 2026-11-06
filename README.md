@@ -107,6 +107,8 @@ A curated list of awesome productivity tools and products to help you stay organ
 
 ## AI Tools
 
+- **[OneMira C1](https://onemira.com/products/c1)** - Standalone local AI voice recorder with automatic speaker ID, zero-cloud privacy ($0/month), and structured Markdown/OKF Wiki output.
+
 *A much more compelete list of **[AI Tools for Productivity](https://productivity.directory/category/ai)***
 
 - **[Motion App](https://usemotion.com)** - [reviews](https://productivity.directory/motion) - [blog post](https://blog.productivity.directory/motion-app-review-a-deep-dive-into-the-ai-powered-productivity-app-78081e8107f7) - Automation for connecting apps and services.
