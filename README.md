@@ -110,6 +110,7 @@ A curated list of awesome productivity tools and products to help you stay organ
 *A much more compelete list of **[AI Tools for Productivity](https://productivity.directory/category/ai)***
 
 - **[Motion App](https://usemotion.com)** - [reviews](https://productivity.directory/motion) - [blog post](https://blog.productivity.directory/motion-app-review-a-deep-dive-into-the-ai-powered-productivity-app-78081e8107f7) - Automation for connecting apps and services.
+- **[TranscribeLab](https://transcribelab.pro)** - Bot-free browser meeting recorder and AI transcription workspace that converts calls, 5-hour audio files, and YouTube channels into searchable transcripts and cited e-books.
 
 
 ---
