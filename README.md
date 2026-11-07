@@ -62,6 +62,7 @@ A curated list of awesome productivity tools and products to help you stay organ
 2. **[Notion](https://www.notion.so)** - [review](https://productivity.directory/notion) - All-in-one workspace for notes, tasks, wikis, and databases.
 3. **[OneNote](https://www.onenote.com)** - Microsoft's digital note-taking app.
 4. **[Joplin](https://joplinapp.org)** - [review](https://productivity.directory/joplin) - Note-taking, to-do app.
+5. **[Eirle Notes](https://eirle.me/)** - Free browser notepad for local notes, checklists and sticky notes; offline after setup, with manual diary backups and no account.
 
 ## Collaboration
 
