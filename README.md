@@ -68,6 +68,7 @@ A curated list of awesome productivity tools and products to help you stay organ
 1. **[Slack](https://slack.com)** - [review](https://productivity.directory/slack) - Messaging app for teams.
 2. **[Microsoft Teams](https://www.microsoft.com/en/microsoft-teams/group-chat-software)** - [review](https://productivity.directory/microsoft-teams) - Unified communication and collaboration platform.
 3. **[Zoom](https://zoom.us)** - [review](https://productivity.directory/zoom) - Video conferencing and web conferencing service.
+4. **[Vertov](https://vertov.app/)** - Record a screen walkthrough, edit by transcript, and share a link for asynchronous team feedback.
 
 ## Project Management
 
